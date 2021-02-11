@@ -1,5 +1,8 @@
-import { formatter } from './lib/formatter';
-import { generateGUID } from './lib/guid';
+import jsFormatter from './lib/formatter';
+import jsGuid from './lib/guid';
+
+export const formatter = jsFormatter;
+export const generateGUID = jsGuid;
 
 export default {
   formatter,
