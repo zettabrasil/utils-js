@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/zettabrasil/utils-js/compare/v1.1.0...v1.1.1) (2021-02-11)
+
+
+### Bug Fixes
+
+* **exports:** add export default at the root ([19055c6](https://github.com/zettabrasil/utils-js/commit/19055c60a351b568c6c65a684c7e235231609c68))
+
 ## [1.1.0](https://github.com/zettabrasil/utils-js/compare/v1.0.1...v1.1.0) (2021-02-11)
 
 
