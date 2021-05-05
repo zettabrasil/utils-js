@@ -1,5 +1,5 @@
-import jsFormatter from './lib/formatter';
-import jsGuid from './lib/guid';
+import jsFormatter from "./lib/formatter";
+import jsGuid from "./lib/guid";
 
 export const formatter = jsFormatter;
 export const generateGUID = jsGuid;

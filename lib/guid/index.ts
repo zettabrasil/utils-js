@@ -1,4 +1,4 @@
-import lib from './lib';
+import lib from "./lib";
 
 /**
  * Generate a unique ID based on timestamp
