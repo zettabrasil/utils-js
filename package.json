@@ -1,6 +1,6 @@
 {
   "name": "@zettabrasil/utils-js",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Common js scripts for formatting and ...",
   "main": "index.ts",
   "scripts": {
