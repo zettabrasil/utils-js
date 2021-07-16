@@ -3,6 +3,7 @@
   "version": "1.2.2",
   "description": "Common js scripts for formatting and ...",
   "main": "index.ts",
+  "types": "index.d.ts",
   "scripts": {
     "commit": "git-cz",
     "release": "standard-version"
